@@ -1,0 +1,30 @@
+body {
+  font-size: 18px;
+  line-height: 1.5;
+  color: rgb(225, 209, 35);
+  background-color: rgb(97, 207, 38);
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+h1,
+h2 {
+  margin: 0;
+}
+
+div#main {
+  display: flex;
+  margin: 20px;
+}
+
+div#product {
+  margin-left: 40px;
+}
